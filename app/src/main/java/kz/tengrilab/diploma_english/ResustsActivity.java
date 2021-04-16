@@ -28,6 +28,7 @@ public class ResustsActivity extends AppCompatActivity {
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
         actionBar.setHomeAsUpIndicator(R.drawable.ic_close);
+        actionBar.setTitle("Басты бет");
     }
 
     @Override

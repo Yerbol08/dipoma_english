@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".Lesson1.Lesson1Activity"
     android:orientation="vertical"
-    android:background="@drawable/kz_eng"
+    android:background="@drawable/flag"
     android:gravity="center">
 
 
