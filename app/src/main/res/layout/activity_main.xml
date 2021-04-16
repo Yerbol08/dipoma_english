@@ -43,4 +43,15 @@
         android:layout_marginTop="16sp"
         android:gravity="center"
         android:text="The simple future tense"/>
+
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16sp"
+        android:layout_marginEnd="16sp"
+        android:layout_marginTop="32sp"
+        android:gravity="center"
+        android:text="Аккаунттан шығу"/>
 </LinearLayout>
