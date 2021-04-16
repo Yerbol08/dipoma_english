@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Lesson1.TestingActivity"
+    tools:context=".lesson2.Testting2Activity"
     android:orientation="vertical"
     android:layout_gravity="center"
     android:gravity="center">

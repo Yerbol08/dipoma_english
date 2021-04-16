@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".lesson3.Lesson3Activity"
+    android:orientation="vertical"
+    android:background="@drawable/kz_eng"
+    android:gravity="center">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="36sp"
+        android:layout_marginEnd="36sp"
+        android:layout_marginTop="24sp"
+        android:text="лекция"
+        android:id="@+id/text"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="36sp"
+        android:layout_marginEnd="36sp"
+        android:layout_marginTop="14sp"
+        android:text="сөздік"
+        android:id="@+id/words"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="36sp"
+        android:layout_marginEnd="36sp"
+        android:layout_marginTop="14sp"
+        android:text="Тест"
+        android:id="@+id/test"
+        />
+
+
+</LinearLayout>

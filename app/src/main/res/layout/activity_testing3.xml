@@ -7,8 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".Lesson1.TestingActivity"
     android:orientation="vertical"
-    android:layout_gravity="center"
-    android:gravity="center">
+    android:layout_gravity="center">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -43,7 +42,7 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:orientation="vertical"
-        android:layout_marginTop="20dp">
+        android:layout_marginTop="0dp">
 
 
         <LinearLayout
@@ -52,7 +51,7 @@
             android:layout_gravity="center"
             android:gravity="center"
             android:orientation="vertical"
-            android:layout_marginTop="20dp">
+            android:layout_marginTop="0dp">
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -211,44 +210,5 @@
 
 
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:layout_alignParentBottom="true">
 
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
-            <RelativeLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent">
-
-                <ProgressBar
-                    android:id="@+id/progressBarQuestion"
-                    style="@style/Widget.AppCompat.ProgressBar.Horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="20dp"
-
-                    android:progressDrawable="@drawable/customeprogressbar" />
-
-                <TextView
-                    android:id="@+id/questionsOrder"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:textAlignment="center"
-                    android:gravity="bottom"
-                    android:textColor="@color/black"
-                    android:layout_alignLeft="@id/progressBarQuestion"
-                    android:layout_alignTop="@id/progressBarQuestion"
-                    android:layout_alignRight="@id/progressBarQuestion"
-                    android:layout_alignBottom="@id/progressBarQuestion"
-                    android:background="@android:color/transparent"
-                    android:layout_centerVertical="true"
-                    android:textStyle="bold" />
-
-            </RelativeLayout>
-        </LinearLayout>
-    </LinearLayout>
 </RelativeLayout>

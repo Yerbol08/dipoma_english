@@ -1,3 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">diploma_english</string>
+    <string name="lesson1_text">  The simple present tense in English is used to describe an action that is regular, true or normal.\n  We use the present tense:</string>
+    <string name="lesson1_text2">   1. For repeated or regular actions in the present time period.\n
+        •	I take the train to the office.\n
+        •	The train to Berlin leaves every hour.\n
+        •	John sleeps eight hours every night during the week.\n
+    2. For facts.\n
+        •	The President of The USA lives in The White House.\n
+        •	A dog has four legs.\n
+        •	We come from Switzerland.\n
+    3. For habits.\n
+        •	I get up early every day.\n
+        •	Carol brushes her teeth twice a day.\n
+        •	They travel to their country house every weekend.\n
+    4. For things that are always / generally true.\n
+        •	It rains a lot in winter.\n
+        •	The Queen of England lives in Buckingham Palace.\n
+        •	They speak English at work.\n</string>
+    <string name="lesson2_text1">It`s similar to the present simple because it has different rules for the verb `be`, which becomes `was` or `were`:</string>
+    <string name="lesson2_text2">The Past Simple with `be` \n
+    Here`s how to make the positive:\n
+    Positive with \'be\'\n
+    I was cold\n
+    you were tired\n
+    he was in the garden\n
+    she was late\n
+    it was sunny\n
+    we were on holiday\n
+    they were hungry\n
+</string>
+    <string name="lesson3_text1">The simple future refers to a time later than now, and expresses facts or certainty. In this case there is no `attitude`.\n</string>
+    <string name="lesson3_text2">The simple future is used:\n
+    •	To predict a future event:\n
+    It will rain tomorrow.\n
+    •	With I or We, to express a spontaneous decision:\n
+    Ill pay for the tickets by credit card.\n
+    •	To express willingness:\n
+    I`ll do the washing-up.\n
+    He`ll carry your bag for you.\n
+    •	In the negative form, to express unwillingness:\n
+    The baby won`t eat his soup.\n
+    I won`t leave until I`ve seen the manager!\n
+    •	With I in the interrogative form using "shall", to make an offer:\n
+    Shall I open the window?\n
+    •	With we in the interrogative form using "shall", to make a suggestion:\n
+    Shall we go to the cinema tonight?\n
+    •	With I in the interrogative form using "shall", to ask for advice or instructions:\n
+    What shall I tell the boss about this money?\n
+    •	With you, to give orders:\n
+    You will do exactly as I say.\n
+    •	With you in the interrogative form, to give an invitation:\n
+    Will you come to the dance with me?\n
+    Will you marry me?\n\n
+Note:In modern English will is preferred to shall. Shall is mainly used with I and we to make an offer or suggestion, or to ask for advice (see examples above). With the other persons (you, he, she, they) shall is only used in literary or poetic situations, e.g. "With rings on her fingers and bells on her toes, She shall have music wherever she goes."
+</string>
 </resources>
